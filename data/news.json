@@ -1,0 +1,1065 @@
+{
+  "generatedAt": "2026-09-19T15:58:17.479732+00:00",
+  "sources": [
+    {
+      "id": "hf",
+      "module": "ai",
+      "name": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "type": "rss",
+      "updatedAt": "2026-09-19T15:58:17.479732+00:00",
+      "checkedAt": "2026-09-19T15:58:17.479732+00:00",
+      "error": null
+    },
+    {
+      "id": "deepmind",
+      "module": "ai",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "type": "rss",
+      "updatedAt": "2026-09-19T15:58:17.479732+00:00",
+      "checkedAt": "2026-09-19T15:58:17.479732+00:00",
+      "error": null
+    },
+    {
+      "id": "ib",
+      "module": "insurance",
+      "name": "Insurance Business · 国际行业新闻",
+      "url": "https://www.insurancebusinessmag.com/us/rss/",
+      "type": "rss",
+      "updatedAt": "2026-09-19T15:58:17.479732+00:00",
+      "checkedAt": "2026-09-19T15:58:17.479732+00:00",
+      "error": null
+    },
+    {
+      "id": "iachina",
+      "module": "insurance",
+      "name": "中国保险行业协会 · 协会要闻",
+      "url": "https://www.iachina.cn/col/col22/index.html",
+      "type": "iachina",
+      "updatedAt": "2026-09-19T15:58:17.479732+00:00",
+      "checkedAt": "2026-09-19T15:58:17.479732+00:00",
+      "error": null
+    },
+    {
+      "id": "nfra",
+      "module": "insurance",
+      "name": "国家金融监督管理总局 · 最新消息",
+      "url": "https://www.nfra.gov.cn/cn/static/data/DocInfo/SelectDocByItemIdAndChild?itemId=915&pageSize=20&pageIndex=1",
+      "type": "nfra",
+      "updatedAt": null,
+      "checkedAt": "2026-09-19T15:58:17.479732+00:00",
+      "error": "Command '['curl', '--fail', '--location', '--silent', '--show-error', '--max-time', '25', '--max-filesize', '5000000', '--user-agent', 'Mozilla/5.0', 'https://www.nfra.gov.cn/cn/static/data/DocInfo/SelectDocByItemIdAndChild?itemId=915&pageSize=20&pag"
+    }
+  ],
+  "items": [
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Cadillac F1 owners face insurance-linked class action",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/cadillac-f1-owners-face-insurancelinked-class-action-590367.aspx",
+      "publishedAt": "2026-09-18T20:08:12+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "A free-market think-tank says California's insurance fix is working",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/a-freemarket-thinktank-says-californias-insurance-fix-is-working-590352.aspx",
+      "publishedAt": "2026-09-18T17:23:08+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "It’s the \"largest theft of labor in human history.\" Insurers are backing away",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/its-the-largest-theft-of-labor-in-human-history--insurers-are-backing-away-590351.aspx",
+      "publishedAt": "2026-09-18T17:18:36+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "New Jersey bill targets AI-powered insurance claim denials",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/new-jersey-bill-targets-aipowered-insurance-claim-denials-590341.aspx",
+      "publishedAt": "2026-09-18T15:42:44+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Pacific Life cleared of $1.5M Ponzi scheme negligence verdict",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/pacific-life-cleared-of-1-5m-ponzi-scheme-negligence-verdict-590340.aspx",
+      "publishedAt": "2026-09-18T15:41:00+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "What keeps independent agencies, independent?",
+      "url": "https://www.insurancebusinessmag.com/us/tv/what-keeps-independent-agencies-independent-589632.aspx",
+      "publishedAt": "2026-09-18T15:40:58+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Low layoffs keep pressure on workers’ comp and benefits costs",
+      "url": "https://www.insurancebusinessmag.com/us/news/benefits/low-layoffs-keep-pressure-on-workers-comp-and-benefits-costs-590339.aspx",
+      "publishedAt": "2026-09-18T15:40:52+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Causation gap sinks summary judgment in New York auto injury case",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/causation-gap-sinks-summary-judgment-in-new-york-auto-injury-case-590338.aspx",
+      "publishedAt": "2026-09-18T15:38:39+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Indiana court reverses insurer in UIM dispute over officer's cruiser",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/indiana-court-reverses-insurer-in-uim-dispute-over-officers-cruiser-590337.aspx",
+      "publishedAt": "2026-09-18T15:36:50+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Employers ramp up scrutiny of benefits ROI: Report",
+      "url": "https://www.insurancebusinessmag.com/us/news/benefits/employers-ramp-up-scrutiny-of-benefits-roi-report-590336.aspx",
+      "publishedAt": "2026-09-18T15:36:24+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "As Dive In bows out, AI reshapes insurance's talent challenge",
+      "url": "https://www.insurancebusinessmag.com/us/news/diversity-inclusion/as-dive-in-bows-out-ai-reshapes-insurances-talent-challenge-590323.aspx",
+      "publishedAt": "2026-09-18T14:47:55+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Buyout firms are slicing their debt to try to get cautious insurance dollars",
+      "url": "https://www.insurancebusinessmag.com/us/news/life-insurance/buyout-firms-are-slicing-their-debt-to-try-to-get-cautious-insurance-dollars-590307.aspx",
+      "publishedAt": "2026-09-18T13:55:59+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Berkshire completes Buffett succession with Howard named chairman",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/berkshire-completes-buffett-succession-with-howard-named-chairman-590304.aspx",
+      "publishedAt": "2026-09-18T13:45:30+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Orion180 IPO falls short of target valuation",
+      "url": "https://www.insurancebusinessmag.com/us/news/excess-surplus/orion180-ipo-falls-short-of-target-valuation-590303.aspx",
+      "publishedAt": "2026-09-18T13:43:58+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Jon Hancock to retire as AIG General Insurance CEO",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/jon-hancock-to-retire-as-aig-general-insurance-ceo-590302.aspx",
+      "publishedAt": "2026-09-18T13:41:58+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "One agency owner on the problem a soft market makes worse",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/one-agency-owner-on-the-problem-a-soft-market-makes-worse-590296.aspx",
+      "publishedAt": "2026-09-18T13:05:44+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Think-tank warns brokers against assuming AI is covered",
+      "url": "https://www.insurancebusinessmag.com/us/news/cyber/thinktank-warns-brokers-against-assuming-ai-is-covered-590236.aspx",
+      "publishedAt": "2026-09-18T04:32:19+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Benefits brokers see fiduciary gaps clients aren't asking about yet, survey finds",
+      "url": "https://www.insurancebusinessmag.com/us/news/benefits/benefits-brokers-see-fiduciary-gaps-clients-arent-asking-about-yet-survey-finds-590235.aspx",
+      "publishedAt": "2026-09-18T04:19:04+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "EPIC acquires a fifth-generation Michigan brokerage",
+      "url": "https://www.insurancebusinessmag.com/us/news/mergers-acquisitions/epic-acquires-a-fifthgeneration-michigan-brokerage-590219.aspx",
+      "publishedAt": "2026-09-18T01:08:34+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Insurance moves: HDI Global and Marsh",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/insurance-moves-hdi-global-and-marsh-590213.aspx",
+      "publishedAt": "2026-09-18T00:16:17+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Ryan Specialty's TRU promotes a former Navy SEAL to president",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/ryan-specialtys-tru-promotes-a-former-navy-seal-to-president-590211.aspx",
+      "publishedAt": "2026-09-18T00:08:39+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Senate committee clears TRIA extension as insurers flag market uncertainty",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/senate-committee-clears-tria-extension-as-insurers-flag-market-uncertainty-590209.aspx",
+      "publishedAt": "2026-09-18T00:01:22+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "What the Fed’s interest rate hike means for insurance",
+      "url": "https://www.insurancebusinessmag.com/us/news/breaking-news/what-the-feds-interest-rate-hike-means-for-insurance-590199.aspx",
+      "publishedAt": "2026-09-17T21:56:41+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "House lawmakers make a fourth attempt at a federal safe harbor for cannabis insurers",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/house-lawmakers-make-a-fourth-attempt-at-a-federal-safe-harbor-for-cannabis-insurers-590190.aspx",
+      "publishedAt": "2026-09-17T19:12:30+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Berkshire Hathaway unit seeks to deny coverage in fatal skylight fall",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/berkshire-hathaway-unit-seeks-to-deny-coverage-in-fatal-skylight-fall-590176.aspx",
+      "publishedAt": "2026-09-17T16:48:53+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Insurer fights coverage for recalled bed rail death claim",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/insurer-fights-coverage-for-recalled-bed-rail-death-claim-590175.aspx",
+      "publishedAt": "2026-09-17T16:42:17+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Seneca sues to drop defense in Philadelphia jogger-hit case",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/seneca-sues-to-drop-defense-in-philadelphia-joggerhit-case-590173.aspx",
+      "publishedAt": "2026-09-17T16:36:01+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "OpenAI admits its AI models have learned to cheat, hide their own mistakes",
+      "url": "https://www.insurancebusinessmag.com/us/news/cyber/openai-admits-its-ai-models-have-learned-to-cheat-hide-their-own-mistakes-590165.aspx",
+      "publishedAt": "2026-09-17T16:26:28+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Cyber rates keep falling – but how much lower can they go?",
+      "url": "https://www.insurancebusinessmag.com/us/news/cyber/cyber-rates-keep-falling--but-how-much-lower-can-they-go-590161.aspx",
+      "publishedAt": "2026-09-17T15:56:57+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Bill targets SEC forms for annuity, life insurance products",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/bill-targets-sec-forms-for-annuity-life-insurance-products-590151.aspx",
+      "publishedAt": "2026-09-17T15:22:14+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "TV producer loses coverage fight over reality show exclusion",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/tv-producer-loses-coverage-fight-over-reality-show-exclusion-590150.aspx",
+      "publishedAt": "2026-09-17T15:19:05+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "AmGuard ordered to hand over 2,000 pages in UIM dispute",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/amguard-ordered-to-hand-over-2000-pages-in-uim-dispute-590149.aspx",
+      "publishedAt": "2026-09-17T15:16:46+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Georgia appeals court affirms dismissal of UM suit against Allstate",
+      "url": "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/georgia-appeals-court-affirms-dismissal-of-um-suit-against-allstate-590147.aspx",
+      "publishedAt": "2026-09-17T15:13:25+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "Uber slams ride share insurance requirements",
+      "url": "https://www.insurancebusinessmag.com/us/news/auto-motor/uber-slams-ride-share-insurance-requirements-590140.aspx",
+      "publishedAt": "2026-09-17T14:54:47+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "ib",
+      "source": "Insurance Business · 国际行业新闻",
+      "title": "CFC folds cyber, AI wording into financial institutions suite",
+      "url": "https://www.insurancebusinessmag.com/us/news/cyber/cfc-folds-cyber-ai-wording-into-financial-institutions-suite-590128.aspx",
+      "publishedAt": "2026-09-17T13:53:57+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "publishedAt": "2026-09-15T17:05:57+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "publishedAt": "2026-09-15T16:00:44+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "杨国瑞同志赴中国保险行业协会调研",
+      "url": "https://www.iachina.cn/art/2026/9/15/art_22_109299.html",
+      "publishedAt": "2026-09-15"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会消费者权益保护专业委员会召开三季度交流座谈会",
+      "url": "https://www.iachina.cn/art/2026/9/11/art_22_109298.html",
+      "publishedAt": "2026-09-11"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "publishedAt": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "publishedAt": "2026-09-10T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "publishedAt": "2026-09-08T14:23:07+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "publishedAt": "2026-09-08T14:00:15+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "publishedAt": "2026-09-03T15:02:08+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "publishedAt": "2026-09-03T13:13:48+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "publishedAt": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "publishedAt": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "publishedAt": "2026-09-03T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "publishedAt": "2026-09-02T16:24:24+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "publishedAt": "2026-09-02T16:18:31+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "publishedAt": "2026-09-01T21:39:07+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "publishedAt": "2026-09-01T17:08:51+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "publishedAt": "2026-09-01T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "publishedAt": "2026-08-28T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "publishedAt": "2026-08-27T16:11:32+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "publishedAt": "2026-08-27T12:59:16+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "publishedAt": "2026-08-26T17:01:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "publishedAt": "2026-08-26T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "publishedAt": "2026-08-25T15:14:14+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "publishedAt": "2026-08-25T11:39:24+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "publishedAt": "2026-08-25T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "publishedAt": "2026-08-21T11:59:48+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "publishedAt": "2026-08-21T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "publishedAt": "2026-08-21T00:00:00+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会印发《车险承保理赔实务指南（2026版）》",
+      "url": "https://www.iachina.cn/art/2026/8/21/art_22_109243.html",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "publishedAt": "2026-08-20T16:52:57+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会养老保险专业委员会召开二季度交流座谈会",
+      "url": "https://www.iachina.cn/art/2026/8/20/art_22_109224.html",
+      "publishedAt": "2026-08-20"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "publishedAt": "2026-08-18T18:09:38+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "publishedAt": "2026-08-18T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "publishedAt": "2026-08-17T19:46:21+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "publishedAt": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "publishedAt": "2026-08-13T17:16:04+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "publishedAt": "2026-08-13T17:04:18+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "publishedAt": "2026-08-13T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "publishedAt": "2026-08-12T16:14:36+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "publishedAt": "2026-08-12T14:01:59+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "publishedAt": "2026-08-11T13:37:10+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会发布《中国保险行业协会自律规约制定管理办法》",
+      "url": "https://www.iachina.cn/art/2026/8/11/art_22_109218.html",
+      "publishedAt": "2026-08-11"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "publishedAt": "2026-08-10T16:25:36+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "publishedAt": "2026-08-10T10:05:36+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "publishedAt": "2026-08-10T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "publishedAt": "2026-08-06T15:06:15+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "publishedAt": "2026-08-06T00:00:00+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会召开2026年度第二次例行新闻发布会",
+      "url": "https://www.iachina.cn/art/2026/7/31/art_22_109209.html",
+      "publishedAt": "2026-07-31"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "publishedAt": "2026-07-30T15:09:09+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "publishedAt": "2026-07-30T15:00:59+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "publishedAt": "2026-07-29T16:02:10+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "publishedAt": "2026-07-28T13:21:37+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会举办“党建引领行业协会高质量发展”专题培训班",
+      "url": "https://www.iachina.cn/art/2026/7/28/art_22_109174.html",
+      "publishedAt": "2026-07-28"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "publishedAt": "2026-07-27T09:32:20+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "publishedAt": "2026-07-27T00:00:00+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会战略与经营分析专委会召开常务委员会",
+      "url": "https://www.iachina.cn/art/2026/7/23/art_22_109167.html",
+      "publishedAt": "2026-07-23"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "publishedAt": "2026-07-22T13:38:54+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "publishedAt": "2026-07-21T15:16:30+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "hf",
+      "source": "Hugging Face Blog",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "publishedAt": "2026-07-21T00:00:00+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会组织召开人身保险业利率研究专家咨询委员会例会",
+      "url": "https://www.iachina.cn/art/2026/7/21/art_22_109159.html",
+      "publishedAt": "2026-07-21"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "铸魂砺党性 清风守初心——中国保险行业协会组织开展“夏风倡廉 健步党校”主...",
+      "url": "https://www.iachina.cn/art/2026/7/20/art_22_109158.html",
+      "publishedAt": "2026-07-20"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "publishedAt": "2026-07-17T15:00:11+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "publishedAt": "2026-07-16T09:30:42+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会公司治理与内审专委会召开常务委员会议",
+      "url": "https://www.iachina.cn/art/2026/7/16/art_22_109157.html",
+      "publishedAt": "2026-07-16"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会召开第六届理事会第五次会议",
+      "url": "https://www.iachina.cn/art/2026/7/15/art_22_109156.html",
+      "publishedAt": "2026-07-15"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会资金运用专委会召开二季度交流会暨第三届常务委员会第六次会议",
+      "url": "https://www.iachina.cn/art/2026/7/14/art_22_109155.html",
+      "publishedAt": "2026-07-14"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "publishedAt": "2026-07-13T12:37:28+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会非车财产保险专业委员会召开常务委员会第五次会议",
+      "url": "https://www.iachina.cn/art/2026/7/13/art_22_109143.html",
+      "publishedAt": "2026-07-13"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "publishedAt": "2026-07-03T14:25:43+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会外资专委会召开二季度交流会议",
+      "url": "https://www.iachina.cn/art/2026/7/2/art_22_109116.html",
+      "publishedAt": "2026-07-02"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "publishedAt": "2026-06-30T16:02:40+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "publishedAt": "2026-06-24T16:30:01+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会健康保险专业委员会召开二季度行业经验交流会",
+      "url": "https://www.iachina.cn/art/2026/6/22/art_22_109097.html",
+      "publishedAt": "2026-06-22"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中保协调研宁波国家保险创新综合试验区",
+      "url": "https://www.iachina.cn/art/2026/6/22/art_22_109098.html",
+      "publishedAt": "2026-06-22"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "publishedAt": "2026-06-16T21:29:50+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "publishedAt": "2026-06-16T15:46:31+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会声誉风险管理专业委员会召开第二届第四次常务委员会议",
+      "url": "https://www.iachina.cn/art/2026/6/15/art_22_109092.html",
+      "publishedAt": "2026-06-15"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会人力资源与教育培训专委会召开《保险行业人才发展报告2026...",
+      "url": "https://www.iachina.cn/art/2026/6/15/art_22_109091.html",
+      "publishedAt": "2026-06-15"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "publishedAt": "2026-06-10T16:24:11+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "publishedAt": "2026-06-10T10:21:19+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "中国保险行业协会保险科技专委会召开2026年全体委员会议",
+      "url": "https://www.iachina.cn/art/2026/6/10/art_22_109077.html",
+      "publishedAt": "2026-06-10"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "publishedAt": "2026-06-09T15:16:25+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "publishedAt": "2026-06-09T14:10:19+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Powering the future of robotics in Europe",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "publishedAt": "2026-06-09T14:02:33+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "publishedAt": "2026-06-08T13:04:59+00:00"
+    },
+    {
+      "module": "insurance",
+      "sourceId": "iachina",
+      "source": "中国保险行业协会 · 协会要闻",
+      "title": "财产保险行业2026年度防灾减灾救灾工作推进会在京召开",
+      "url": "https://www.iachina.cn/art/2026/6/6/art_22_109072.html",
+      "publishedAt": "2026-06-06"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "publishedAt": "2026-05-21T19:46:42+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "publishedAt": "2026-05-18T18:21:39+00:00"
+    },
+    {
+      "module": "ai",
+      "sourceId": "deepmind",
+      "source": "Google DeepMind",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "publishedAt": "2026-05-17T19:53:18+00:00"
+    }
+  ]
+}
